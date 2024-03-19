@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="3997f6ef-ad2a-4a7e-b40f-a02f66cb9ed6" name="MySQL Mapping">
+      <data-sources db="be7cc62f-f4f3-4437-9701-351277aa0858" ddl="d351ddbf-ce3f-442a-90b7-f791609f4036" />
+      <scope>
+        <node kind="schema" qname="jarves" />
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="d351ddbf-ce3f-442a-90b7-f791609f4036" />
+          <option name="name" value="MySQL Site(DDL)" />
+          <option name="dbmsName" value="MYSQL" />
+          <option name="parent" value="be7cc62f-f4f3-4437-9701-351277aa0858" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/data" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+          <option name="scriptOptions">
+            <map>
+              <entry key="CreateIfNotExists" value="1" />
+              <entry key="CreateOrReplace" value="1" />
+              <entry key="CurrentSequenceValue" value="1" />
+              <entry key="IgnoreDefiner" value="1" />
+              <entry key="UseSurrogates" value="1" />
+            </map>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>

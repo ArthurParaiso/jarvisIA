@@ -1,0 +1,6 @@
+# Este arquivo lista as dependências do projeto "Jarves"
+# Você pode adicionar ou remover dependências conforme necessário
+
+scikit-learn==0.24.2
+nltk==3.6.3
+spacy==3.1.3
